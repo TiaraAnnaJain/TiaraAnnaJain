@@ -41,4 +41,4 @@ Chemical Engineering @ Imerial College London 🇬🇧
 ## 📊 GitHub Stats
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TiaraAnnaJain&theme=rose_pine&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TiaraAnnaJain&theme=rose_pine&background=0D1117&hide_border=true" alt="GitHub Streak" />
