@@ -1,44 +1,29 @@
 <div align="center">
 
-# Hi, I'm Tiara!
-
-Chemical Engineering @ Imerial College London 🇬🇧
-
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tiara-anna-jain)
+# > Hi, I'm Tiara!
 
 
 </div>
 
 
 ## ✨ About Me
-⚙️ Currently working on Bayesian optimisation, surrogate modelling, and scientific machine learning  
-🚀 Passionate about using AI and data-driven methods for complex engineering problems  
-🧶 Creating things one loop at a time (whether it's code or crochet)  
+I’m a third year chemical engineering student at Imperial College London researching applications of Machine Learning to chemical engineering and bioprocessing. 
 
-## 🧩 Tech Stack
+## 🔬Research interests
+- Machine Learning for Engineering Problems
+- Bayesian Optimisation
+- LLM’s for Machine Learning and Optimisation
 
-**Languages**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+## 🧩 Technical skills
+- **Languages**: Python
+- **Machine Learning**: PyTorch, scikit-learn, GPyTorch, BoTorch
+- **Scientific Computing**: NumPy, Pandas, SciPy, Matplotlib
+- **Tools**: Git, Jupyter
 
-**Machine Learning**  
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![GPyTorch](https://img.shields.io/badge/GPyTorch-FFFFFF?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+## 🎓 Education
+- MEng in Chemical Engineering @ Imperial College London (2024-2028)
 
-**Scientific Computing**  
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+## 🔗 Links
 
-
-**Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-## 📊 GitHub Stats
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TiaraAnnaJain&theme=rose_pine&background=0D1117&hide_border=true" alt="GitHub Streak" />
+- [LinkedIn](https://linkedin.com/in/tiara-anna-jain)
+- [Email](tiaraannajain@gmail.com)
