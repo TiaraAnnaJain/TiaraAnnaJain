@@ -15,7 +15,7 @@ I’m a third year chemical engineering student at Imperial College London resea
 - LLM’s for Machine Learning and Optimisation
 
 ## 🧩 Technical skills
-- **Languages**: Python
+- **Languages**: Python, MATLAB
 - **Machine Learning**: PyTorch, scikit-learn, GPyTorch, BoTorch
 - **Scientific Computing**: NumPy, Pandas, SciPy, Matplotlib
 - **Tools**: Git, Jupyter
