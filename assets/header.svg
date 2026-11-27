@@ -1,26 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="Hi, I'm Tiara! A Gaussian process plot with the next sample marked.">
-  <rect width="1200" height="400" rx="24" fill="#D3B6D3"/>
-  <text x="64" y="112" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" fill="#4A1229">&gt;&gt;&gt; tiara.optimise()</text>
-  <text x="64" y="198" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="76" font-weight="800" fill="#6D1F42">Hi, I'm Tiara!</text>
-  <text x="64" y="240" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#4A1229">Chemical Engineering MEng @ Imperial College London</text>
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#4A1229">
-    <rect x="64" y="266" width="182" height="36" rx="18" fill="none" stroke="#4A1229" stroke-width="1.5"/>
+  <rect width="1200" height="400" rx="24" fill="#25533F"/>
+  <text x="64" y="112" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" fill="#AACC96">&gt;&gt;&gt; tiara.optimise()</text>
+  <text x="64" y="198" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="76" font-weight="800" fill="#FFB3CF">Hi, I'm Tiara!</text>
+  <text x="64" y="240" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#F3EAE3">Chemical Engineering MEng @ Imperial College London</text>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#AACC96">
+    <rect x="64" y="266" width="182" height="36" rx="18" fill="none" stroke="#AACC96" stroke-width="1.5"/>
     <text x="155" y="289" text-anchor="middle">ML × engineering</text>
-    <rect x="258" y="266" width="230" height="36" rx="18" fill="none" stroke="#4A1229" stroke-width="1.5"/>
+    <rect x="258" y="266" width="230" height="36" rx="18" fill="none" stroke="#AACC96" stroke-width="1.5"/>
     <text x="373" y="289" text-anchor="middle">bayesian optimisation</text>
-    <rect x="500" y="266" width="134" height="36" rx="18" fill="none" stroke="#4A1229" stroke-width="1.5"/>
+    <rect x="500" y="266" width="134" height="36" rx="18" fill="none" stroke="#AACC96" stroke-width="1.5"/>
     <text x="567" y="289" text-anchor="middle">LLMs for ML</text>
   </g>
-  <rect x="676" y="52" width="476" height="300" rx="18" fill="#F1E7F1"/>
-  <text x="700" y="84" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#4A1229">gaussian process surrogate</text>
-  <path d="M700,240 C740,220 780,195 820,214 C860,232 900,225 940,205 C980,185 1010,150 1040,170 C1070,190 1100,100 1130,105 L1130,195 C1100,180 1070,215 1040,200 C1010,185 980,250 940,240 C900,230 860,290 820,245 C780,300 740,320 700,320 Z" fill="#6D1F42" fill-opacity="0.14"/>
-  <path d="M700,282 C740,270 780,220 820,228 C860,236 900,240 940,222 C980,204 1010,175 1040,185 C1070,195 1100,140 1130,150" fill="none" stroke="#6D1F42" stroke-width="3"/>
-  <line x1="700" y1="324" x2="1130" y2="324" stroke="#B892B8" stroke-width="1.5"/>
-  <circle cx="820" cy="228" r="7" fill="#EF6F3C"/>
-  <circle cx="940" cy="222" r="7" fill="#EF6F3C"/>
-  <circle cx="1040" cy="185" r="7" fill="#EF6F3C"/>
-  <circle cx="1105.7" cy="153.5" r="20" fill="#EF6F3C" fill-opacity="0.22"/>
-  <polygon points="1105.7,139.5 1109.3,148.5 1119.0,149.2 1111.6,155.4 1113.9,164.8 1105.7,159.7 1097.5,164.8 1099.8,155.4 1092.4,149.2 1102.1,148.5" fill="#EF6F3C" stroke="#6D1F42" stroke-width="2" stroke-linejoin="round"/>
-  <text x="1122" y="120" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#6D1F42">next sample ↓</text>
-  <text x="1130" y="342" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#4A1229">time →</text>
+  <rect x="676" y="52" width="476" height="300" rx="18" fill="#1E4434"/>
+  <text x="700" y="84" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#AACC96">gaussian process surrogate</text>
+  <path d="M700,240 C740,220 780,195 820,214 C860,232 900,225 940,205 C980,185 1010,150 1040,170 C1070,190 1100,100 1130,105 L1130,195 C1100,180 1070,215 1040,200 C1010,185 980,250 940,240 C900,230 860,290 820,245 C780,300 740,320 700,320 Z" fill="#AACC96" fill-opacity="0.2"/>
+  <path d="M700,282 C740,270 780,220 820,228 C860,236 900,240 940,222 C980,204 1010,175 1040,185 C1070,195 1100,140 1130,150" fill="none" stroke="#AACC96" stroke-width="3"/>
+  <line x1="700" y1="324" x2="1130" y2="324" stroke="#4E7F68" stroke-width="1.5"/>
+  <circle cx="820" cy="228" r="7" fill="#EFCE7B"/>
+  <circle cx="940" cy="222" r="7" fill="#EFCE7B"/>
+  <circle cx="1040" cy="185" r="7" fill="#EFCE7B"/>
+  <circle cx="1105.7" cy="153.5" r="20" fill="#FFB3CF" fill-opacity="0.45"/>
+  <polygon points="1105.7,139.5 1109.3,148.5 1119.0,149.2 1111.6,155.4 1113.9,164.8 1105.7,159.7 1097.5,164.8 1099.8,155.4 1092.4,149.2 1102.1,148.5" fill="#FFB3CF" stroke="#25533F" stroke-width="2" stroke-linejoin="round"/>
+  <text x="1122" y="120" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#FFB3CF">next sample ↓</text>
+  <text x="1130" y="342" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#AACC96">time →</text>
 </svg>
